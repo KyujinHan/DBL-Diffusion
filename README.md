@@ -44,7 +44,7 @@ To support learning layered representations that capture both object appearance 
 (To be continue...)
 ```
 
-# ComfyUI🌠
+# ComfyUI Guideline🌠
 ![](./images/comfyui.PNG)  
 (To be continue)
 
