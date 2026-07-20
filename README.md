@@ -4,9 +4,8 @@
 
 <p align="center">
     <a href=""><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
-    <a href="https://kyujinhan.github.io/dbl-diffusion.github.io/"><img alt="badge1" src="https://img.shields.io/badge/paper-gray?style=plastic&logo=paper&label=ACM&labelColor=red"></a>
-    <a href=""><img alt="badge1" src="https://img.shields.io/badge/Dataset-Huggingface-yellow
-"></a>
+    <a href="https://kyujinhan.github.io/dbl-diffusion.github.io/"><img alt="badge1" src="https://img.shields.io/badge/Project%20page-8A2BE2"></a>
+    <a href=""><img alt="badge1" src="https://img.shields.io/badge/Dataset-Huggingface-yellow"></a>
 </p>
 
 **We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**
