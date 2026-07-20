@@ -45,7 +45,7 @@ To support learning layered representations that capture both object appearance 
 ```
 
 # ComfyUI🌠
-![](./images/comfyui.png)  
+![](./images/comfyui.PNG)  
 (To be continue)
 
 # BibTex
