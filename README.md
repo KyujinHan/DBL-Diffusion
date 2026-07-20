@@ -8,16 +8,16 @@
     <a href="https://huggingface.co/datasets/kyujinpy/TriLayer-RGBA"><img alt="badge1" src="https://img.shields.io/badge/Dataset-Huggingface-yellow"></a>
 </p>
 
-**We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**
+**🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**
 
 # Table of Contents📖
-1. [Introduction📖]()
-2. [TriLayer Datasets📚]()
-3. [Training🤗]()
-4. [Inference🌊]()
-5. [ComfyUI🌠]()
-6. [References]()
-
+1. [Introduction📖](https://github.com/KyujinHan/DBL-Diffusion#introduction)
+2. [TriLayer Datasets📚](https://github.com/KyujinHan/DBL-Diffusion#trilayer-dataset)
+3. [Training🤗](https://github.com/KyujinHan/DBL-Diffusion#training)
+4. [Inference🌊](https://github.com/KyujinHan/DBL-Diffusion#inference)
+5. [ComfyUI🌠](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
+6. [BibTex](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
+  
 
 # Introduction📖
 | ![](./images/model.jpg) | 
