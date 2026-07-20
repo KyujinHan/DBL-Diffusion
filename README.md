@@ -18,7 +18,7 @@
 
 
 # Introduction📖
-| ![](./images/method.jpg) | 
+| ![](./images/model.jpg) | 
 |:--:| 
 | *Overall pipeline of DBL-Diffusion. Above is DBL-Insert, and bleow is DBL-Decompose.* |
 
