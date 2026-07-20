@@ -1,6 +1,6 @@
-# DBL-Diffusion🔥
+# DBL-Diffusion: Explicit Layer Modeling for Video Object Insertion and Layer Decomposition🔥
 ![](https://i.imgur.com/waxVImv.png)  
-![](./images/teaser_image.jpg)  
+![](./images/teaser.jpg)  
 
 <p align="center">
     <a href="https://kyujinhan.github.io/dbl-diffusion.github.io/"><img alt="badge1" src="https://img.shields.io/badge/paper-gray?style=plastic&logo=paper&label=ACM&labelColor=red"></a>
