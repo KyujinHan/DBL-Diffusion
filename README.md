@@ -47,9 +47,11 @@ To support learning layered representations that capture both object appearance 
 (To be continue)
 
 # BibTex
+```
 @article{han2026explicitlayer,
   author    = {Han, kyujin and Shin, seungjoo and Cho, sunghyun},
   title     = {Explicit Layer Modeling for Video Object Insertion and Layer Decomposition},
   journal   = {arxiv},
   year      = {2026},
 }
+```
