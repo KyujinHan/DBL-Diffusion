@@ -11,7 +11,7 @@
 **🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**
 
 # News
-**[2026. 07.]** - Release our paper on arXiv!
+**[2026. 07. 27.]** - Release our paper on arXiv!
 
 # Table of Contents📖
 1. [Introduction📖](https://github.com/KyujinHan/DBL-Diffusion#introduction)
