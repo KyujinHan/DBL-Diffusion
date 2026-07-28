@@ -8,10 +8,11 @@
     <a href="https://huggingface.co/datasets/kyujinpy/TriLayer-RGBA"><img alt="badge1" src="https://img.shields.io/badge/Dataset-Huggingface-yellow"></a>
 </p>
 
-**🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**
+**🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**  
+
 
 # News
-**[2026. 07. 27.]** - Release our paper on arXiv!
+**[2026. 07. 27.]** - Release the [paper] on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities in the paper🔥🔥
 
 # Table of Contents📖
 1. [Introduction📖](https://github.com/KyujinHan/DBL-Diffusion#introduction)
