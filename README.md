@@ -12,7 +12,7 @@
 
 
 # News
-**[2026. 07. 26.]** - **Release the [paper]() on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
+**[2026. 07. 26.] - Release the [paper]() on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
 
 # Table of Contents📖
 1. [Introduction📖](https://github.com/KyujinHan/DBL-Diffusion#introduction)
