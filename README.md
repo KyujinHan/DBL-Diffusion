@@ -53,10 +53,11 @@ To support learning layered representations that capture both object appearance 
 (To be continue)
 
 # TO-DO list
-- [] Release demo video
-- [] Release inference code and weights
-- [] Release dataset
-- [] Release training code
+- [ ] Release demo video
+- [ ] Release inference code and weights
+- [ ] Release dataset
+- [ ] Release training code
+- [ ] Release ComfyUI
 
 # BibTex
 ```
