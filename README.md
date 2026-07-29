@@ -52,6 +52,12 @@ To support learning layered representations that capture both object appearance 
 ![](./images/comfyui.PNG)  
 (To be continue)
 
+# TO-DO list
+- [] Release demo video
+- [] Release inference code and weights
+- [] Release dataset
+- [] Release training code
+
 # BibTex
 ```
 @article{han2026explicitlayer,
