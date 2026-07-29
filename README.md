@@ -3,7 +3,7 @@
 ![](./images/teaser.jpg)  
 
 <p align="center">
-    <a href=""><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
+    <a href="https://arxiv.org/pdf/2607.25802"><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
     <a href="https://kyujinhan.github.io/dbl-diffusion.github.io/"><img alt="badge1" src="https://img.shields.io/badge/Project%20page-8A2BE2"></a>
     <a href="https://huggingface.co/datasets/kyujinpy/TriLayer-RGBA"><img alt="badge1" src="https://img.shields.io/badge/Dataset-Huggingface-yellow"></a>
 </p>
@@ -12,7 +12,7 @@
 
 
 # News
-**[2026. 07. 26.] - Release the [paper]() on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
+**[2026. 07. 26.] - Release the [paper](https://arxiv.org/pdf/2607.25802) on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
 
 # Table of Contents📖
 1. [Introduction📖](https://github.com/KyujinHan/DBL-Diffusion#introduction)
