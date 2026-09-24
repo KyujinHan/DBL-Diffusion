@@ -34,20 +34,20 @@ This limitation is particularly evident in video object insertion and video laye
 We introduce **🔥TriLayer🔥**, a triplet video dataset containing aligned composite--background--foreground videos, where the foreground layers include both object appearance and associated visual effects. 
 With aligned triplet supervision, **TriLayer** enables explicit supervised learning of layered video representations for the first time.
 Building on this dataset, we propose **🔥DBL-Diffusion🔥**, a dual-branch diffusion framework that jointly models scene-level RGB content and RGBA foreground layers through cross-branch interaction during denoising.
-We instantiate the framework in two tasks: **DBL-Insert** for layered object insertion, which generates explicit RGBA layers for realistic compositing and flexible post-editing, and **DBL-Decompose** for video layer decomposition, which recovers foreground and background layers using triplet supervision. 
+We instantiate the framework in two tasks: **⭐DBL-Insert⭐** for layered object insertion, which generates explicit RGBA layers for realistic compositing and flexible post-editing, and **⭐DBL-Decompose⭐** for video layer decomposition, which recovers foreground and background layers using triplet supervision. 
 Experiments demonstrate that explicit layer modeling substantially improves both insertion fidelity and decomposition quality.
 
 # TriLayer Dataset📚
 ![](./images/dataset.jpg)   
 ![](./images/dataset_table.jpg)   
-To support learning layered representations that capture both object appearance and object-induced visual effects, **TriLayer** provides aligned composite, background, and foreground videos for each sample. The composite video contains the original scene with the object present. The foreground video and its alpha matte capture both opaque object regions and semi-transparent effects such as shadows and reflections. The background video contains neither the object nor its associated effects, serving as a clean reference for decomposition and as the input for layered object insertion. Although each sample contains three aligned videos, these are not independent layers; the composite is physically formed by alpha-compositing the foreground layer onto the background. Each sample additionally provides the object name and a VLM-generated caption describing its appearance and associated effects, which serve as conditioning signals for both **DBL-Insert** and **DBL-Decompose**. The dataset contains 3,964 video triplets spanning diverse objects, motions, environments, and lighting conditions.
+To support learning layered representations that capture both object appearance and object-induced visual effects, **🔥TriLayer🔥** provides aligned composite, background, and foreground videos for each sample. The composite video contains the original scene with the object present. The foreground video and its alpha matte capture both opaque object regions and semi-transparent effects such as shadows and reflections. The background video contains neither the object nor its associated effects, serving as a clean reference for decomposition and as the input for layered object insertion. Although each sample contains three aligned videos, these are not independent layers; the composite is physically formed by alpha-compositing the foreground layer onto the background. Each sample additionally provides the object name and a VLM-generated caption describing its appearance and associated effects, which serve as conditioning signals for both **DBL-Insert** and **DBL-Decompose**. The dataset contains 3,964 video triplets spanning diverse objects, motions, environments, and lighting conditions.
 
 (To be continue...)
   
 ## Background refinement
 ![](./images/agbi.jpg)   
 Existing video object removal methods can remove the target object and their visual effects, but often leave residual artifacts (e.g., afterimage and ghosting) in the reconstructed background.   
-To this end, we propose the **🔥Appearance-Guided Background Inpainting (AGBI)🔥** for refining residual artifacts in object-removed backgrounds with appearance guidance from the source video.
+To this end, we propose the **✨Appearance-Guided Background Inpainting (AGBI)✨** for refining residual artifacts in object-removed backgrounds with appearance guidance from the source video.
 
 ```python
 (To be continue...)
