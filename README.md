@@ -45,7 +45,9 @@ To support learning layered representations that capture both object appearance 
 (To be continue...)
   
 ## Background refinement
-![](./images/agbi.jpg)   
+| ![](./images/agbi.jpg) | 
+|:--:| 
+| *Comparison of background refinement with inpainting-based results (Figure S25 in the paper).* |
 Existing video object removal methods can remove the target object and their visual effects, but often leave residual artifacts (e.g., afterimage and ghosting) in the reconstructed background.   
 To this end, we propose the **✨Appearance-Guided Background Inpainting (AGBI)✨** for refining residual artifacts in object-removed backgrounds with appearance guidance from the source video.
 
