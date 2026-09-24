@@ -54,8 +54,9 @@ To this end, we propose the **✨Appearance-Guided Background Inpainting (AGBI)�
 
 ```python
 (To be continue...)
-```
-
+```  
+> ✨Code references: [Training-free video editing](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing). 
+  
 # Training🤗
 ## DBL-Insert🤖
 ```python
