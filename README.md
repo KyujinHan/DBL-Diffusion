@@ -54,23 +54,23 @@ To this end, we propose the **✨Appearance-Guided Background Inpainting (AGBI)�
 ```
 
 # Training🤗
-## DBL-Insert
+## DBL-Insert🤖
 ```python
 (To be continue...)
 ```
 
-## DBL-Decompose
+## DBL-Decompose🤖
 ```python
 (To be continue...)
 ```
 
 # Inference🌊
-## DBL-Insert
+## DBL-Insert🤖
 ```python
 (To be continue...)
 ```
 
-## DBL-Decompose
+## DBL-Decompose🤖
 ```python
 (To be continue...)
 ```
