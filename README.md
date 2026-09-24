@@ -83,7 +83,10 @@ To this end, we propose the **✨Appearance-Guided Background Inpainting (AGBI)�
 
 # ComfyUI Guideline🌠
 ![](./images/comfyui.PNG)  
+
+```python
 (To be continue...)
+```
 
 # TO-DO list
 - [ ] Release demo video
