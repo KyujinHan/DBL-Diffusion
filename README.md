@@ -7,7 +7,6 @@
 
 **🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**  
 
-# Introduction📖
 | ![](./images/model.jpg) | 
 |:--:| 
 | *Overall pipeline of DBL-Diffusion. Top is DBL-Insert, and bottom is DBL-Decompose.* |
