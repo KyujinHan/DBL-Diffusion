@@ -7,7 +7,7 @@
     <a href="https://youtu.be/g53ClSTSUds?si=wT76U5-Yf2vsgvx7"><img src="https://img.shields.io/badge/YouTube-Teaser-FF0000?logo=youtube&amp;logoColor=white" alt="YouTube Video"></a>
 </p>
 
-🤗 If DBL-Diffusion is useful for your research, a star ⭐ on the repository would be greatly appreciated!
+🤗 If DBL-Diffusion is useful for your research, a star ⭐ on the github repository would be greatly appreciated!
 
 <p align="center">
     <a href="#"><b>Kyujin Han</b></a> &ensp;
