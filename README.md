@@ -12,7 +12,7 @@
 <p align="center">
     <a href="#"><b>Kyujin Han</b></a> &ensp;
     <a href="#"><b>Seungjoo Shin</b></a> &ensp;
-    <a href="#"><b>Sunghyun Cho</b></a><sup>2†</sup> &ensp;
+    <a href="#"><b>Sunghyun Cho</b></a><sup>†</sup> &ensp;
 </p>
 
 <p align="center">
