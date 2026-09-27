@@ -19,6 +19,10 @@
 POSTECH, Computer Graphics Lab
 </p>
 
+<p align="center">
+<sup>†</sup>Corresponding authors
+</p>
+
 <video src="#" controls muted width="100%"></video>  
   
 Most video editing systems still lack explicit layered video representations, limiting realistic compositing, object reuse, and consistent manipulation.
