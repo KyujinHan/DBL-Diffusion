@@ -24,7 +24,7 @@ POSTECH, Computer Graphics Lab
 </p>
 
 <p align="center">
-  <b>One scene. Two explicit layered representation. RGB scene content & RGBA foreground layer.</b>
+  <b>One scene. Two explicit representation. RGB scene content & RGBA foreground layer.</b>
 </p>
 
 <video src="#" controls muted width="100%"></video>  
