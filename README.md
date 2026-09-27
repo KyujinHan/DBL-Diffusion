@@ -1,16 +1,26 @@
 # DBL-Diffusion: Explicit Layer Modeling for Video Object Insertion and Video Layer Decomposition🔥
+
 <p align="center">
     <a href="https://arxiv.org/abs/2607.25802"><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
-   <a href="https://kyujinhan.github.io/dual-branch-layered-diffusion/"><img alt="badge1" src="https://img.shields.io/badge/Project%20page-8A2BE2"></a>
+    <a href="https://kyujinhan.github.io/dual-branch-layered-diffusion/"><img alt="badge1" src="https://img.shields.io/badge/Project%20page-8A2BE2"></a>
     <a href="https://huggingface.co/datasets/kyujinpy/TriLayer-RGBA"><img alt="badge1" src="https://img.shields.io/badge/TriLayer-Huggingface-yellow"></a>
+    <a href="https://youtu.be/g53ClSTSUds?si=wT76U5-Yf2vsgvx7"><img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&amp;logoColor=white" alt="YouTube Video"></a>
 </p>
 
-**🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**  
+🤗 **If DBL-Diffusion is useful for your research, a star ⭐ on the repository would be greatly appreciated!**
 
-| ![](./images/model.jpg) | 
-|:--:| 
-| *Overall pipeline of DBL-Diffusion. Top is DBL-Insert, and bottom is DBL-Decompose.* |
+<p align="center">
+    <a href="#"><b>Kyujin Han</b></a> &ensp;
+    <a href="#"><b>Seungjoo Shin</b></a> &ensp;
+    <a href="#"><b>Sunghyun Cho</b></a><sup>2†</sup> &ensp;
+</p>
 
+<p align="center">
+POSTECH, Computer Graphics Lab
+</p>
+
+<video src="#" controls muted width="100%"></video>  
+  
 Most video editing systems still lack explicit layered video representations, limiting realistic compositing, object reuse, and consistent manipulation.
 This limitation is particularly evident in video object insertion and video layer decomposition, where existing methods lack direct supervision for foreground layers that capture both objects and their associated visual effects.
   
@@ -20,9 +30,10 @@ Building on this dataset, we propose **🔥DBL-Diffusion🔥**, a dual-branch di
 We instantiate the framework in two tasks: **⭐DBL-Insert⭐** for layered object insertion, which generates explicit RGBA layers for realistic compositing and flexible post-editing, and **⭐DBL-Decompose⭐** for video layer decomposition, which recovers foreground and background layers using triplet supervision. 
 Experiments demonstrate that explicit layer modeling substantially improves both insertion fidelity and decomposition quality.
 
+**🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**  
 
 # News
-**[2026. 09. 27.] - Release the [project-page](https://kyujinhan.github.io/dual-branch-layered-diffusion/)! Explore controllable video editing with explicit RGB and RGBA layers🔥🔥**  
+**[2026. 09. 27.] - Release the [project-page](https://kyujinhan.github.io/dual-branch-layered-diffusion/) and teaser video! Explore controllable video editing with explicit RGB and RGBA layers🔥🔥**  
 **[2026. 07. 26.] - Release the [paper](http://arxiv.org/abs/2607.25802) on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
 
 # Table of Contents📖
