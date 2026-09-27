@@ -23,7 +23,6 @@ POSTECH, Computer Graphics Lab
   
 Most video editing systems still lack explicit layered video representations, limiting realistic compositing, object reuse, and consistent manipulation.
 This limitation is particularly evident in video object insertion and video layer decomposition, where existing methods lack direct supervision for foreground layers that capture both objects and their associated visual effects.
-  
 We introduce **🔥TriLayer🔥**, a triplet video dataset containing aligned composite--background--foreground videos, where the foreground layers include both object appearance and associated visual effects. 
 With aligned triplet supervision, **TriLayer** enables explicit supervised learning of layered video representations for the first time.
 Building on this dataset, we propose **🔥DBL-Diffusion🔥**, a dual-branch diffusion framework that jointly models scene-level RGB content and RGBA foreground layers through cross-branch interaction during denoising.
