@@ -1,7 +1,4 @@
 # DBL-Diffusion: Explicit Layer Modeling for Video Object Insertion and Video Layer Decomposition🔥
-![](https://i.imgur.com/waxVImv.png)  
-![](./images/teaser.png)  
-
 <p align="center">
     <a href="https://arxiv.org/abs/2607.25802"><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
    <a href="https://kyujinhan.github.io/dual-branch-layered-diffusion/"><img alt="badge1" src="https://img.shields.io/badge/Project%20page-8A2BE2"></a>
@@ -9,21 +6,6 @@
 </p>
 
 **🤗We will publicly release the code, dataset, and pretrained models upon paper acceptance.🤗**  
-
-
-# News
-**[2026. 09. 27.] - Release the [project-page](https://kyujinhan.github.io/dual-branch-layered-diffusion/)! Explore controllable video editing with explicit RGB and RGBA layers🔥🔥**  
-**[2026. 07. 26.] - Release the [paper](http://arxiv.org/abs/2607.25802) on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
-
-# Table of Contents📖
-1. [Introduction📖](https://github.com/KyujinHan/DBL-Diffusion#introduction)
-2. [TriLayer Datasets📚](https://github.com/KyujinHan/DBL-Diffusion#trilayer-dataset)
-3. [Conda🤖](https://github.com/KyujinHan/DBL-Diffusion#conda)
-4. [Training🤗](https://github.com/KyujinHan/DBL-Diffusion#training)
-5. [Inference🌊](https://github.com/KyujinHan/DBL-Diffusion#inference)
-6. [ComfyUI🌠](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
-7. [BibTex](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
-  
 
 # Introduction📖
 | ![](./images/model.jpg) | 
@@ -39,6 +21,20 @@ Building on this dataset, we propose **🔥DBL-Diffusion🔥**, a dual-branch di
 We instantiate the framework in two tasks: **⭐DBL-Insert⭐** for layered object insertion, which generates explicit RGBA layers for realistic compositing and flexible post-editing, and **⭐DBL-Decompose⭐** for video layer decomposition, which recovers foreground and background layers using triplet supervision. 
 Experiments demonstrate that explicit layer modeling substantially improves both insertion fidelity and decomposition quality.
 
+
+# News
+**[2026. 09. 27.] - Release the [project-page](https://kyujinhan.github.io/dual-branch-layered-diffusion/)! Explore controllable video editing with explicit RGB and RGBA layers🔥🔥**  
+**[2026. 07. 26.] - Release the [paper](http://arxiv.org/abs/2607.25802) on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
+
+# Table of Contents📖
+1. [TriLayer Datasets📚](https://github.com/KyujinHan/DBL-Diffusion#trilayer-dataset)
+2. [Conda🤖](https://github.com/KyujinHan/DBL-Diffusion#conda)
+3. [Training🤗](https://github.com/KyujinHan/DBL-Diffusion#training)
+4. [Inference🌊](https://github.com/KyujinHan/DBL-Diffusion#inference)
+5. [ComfyUI🌠](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
+6. [BibTex](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
+
+  
 # TriLayer Dataset📚
 ![](./images/dataset.jpg)   
 To support learning layered representations that capture both object appearance and object-induced visual effects, **🔥TriLayer🔥** provides aligned composite, background, and foreground videos for each sample. The composite video contains the original scene with the object present. The foreground video and its alpha matte capture both opaque object regions and semi-transparent effects such as shadows and reflections. The background video contains neither the object nor its associated effects, serving as a clean reference for decomposition and as the input for layered object insertion. Although each sample contains three aligned videos, these are not independent layers; the composite is physically formed by alpha-compositing the foreground layer onto the background. Each sample additionally provides the object name and a VLM-generated caption describing its appearance and associated effects, which serve as conditioning signals for both **DBL-Insert** and **DBL-Decompose**. The dataset contains 3,908 video triplets spanning diverse objects, motions, environments, and lighting conditions.
