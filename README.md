@@ -3,7 +3,7 @@
 ![](./images/teaser.png)  
 
 <p align="center">
-    <a href="https://arxiv.org/pdf/2607.25802"><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
+    <a href="https://arxiv.org/abs/2607.25802"><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
    <a href="https://kyujinhan.github.io/dual-branch-layered-diffusion/"><img alt="badge1" src="https://img.shields.io/badge/Project%20page-8A2BE2"></a>
     <a href="https://huggingface.co/datasets/kyujinpy/TriLayer-RGBA"><img alt="badge1" src="https://img.shields.io/badge/TriLayer-Huggingface-yellow"></a>
 </p>
