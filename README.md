@@ -41,7 +41,7 @@ Experiments demonstrate that explicit layer modeling substantially improves both
 
 # News
 **[2026. 09. 27.] - Release the [project-page](https://kyujinhan.github.io/dual-branch-layered-diffusion/) and teaser video! Explore controllable video editing with explicit RGB and RGBA layers🔥🔥**  
-**[2026. 07. 26.] - Release the [paper](http://arxiv.org/abs/2607.25802) on arXiv! Check out DBL-Diffusion’s amazing layered video generation capabilities🔥🔥**
+**[2026. 07. 26.] - Release the [paper](http://arxiv.org/abs/2607.25802) on arXiv!**
 
 # Table of Contents📖
 1. [TriLayer Datasets📚](https://github.com/KyujinHan/DBL-Diffusion#trilayer-dataset)
