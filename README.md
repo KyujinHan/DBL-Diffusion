@@ -4,7 +4,7 @@
     <a href="https://arxiv.org/abs/2607.25802"><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
     <a href="https://kyujinhan.github.io/dual-branch-layered-diffusion/"><img alt="badge1" src="https://img.shields.io/badge/Project%20page-8A2BE2"></a>
     <!-- <a href="https://huggingface.co/datasets/kyujinpy/TriLayer-RGBA"><img alt="badge1" src="https://img.shields.io/badge/TriLayer-Huggingface-yellow"></a> -->
-    <a href="https://youtu.be/g53ClSTSUds?si=wT76U5-Yf2vsgvx7"><img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&amp;logoColor=white" alt="YouTube Video"></a>
+    <a href="https://youtu.be/g53ClSTSUds?si=wT76U5-Yf2vsgvx7"><img src="https://img.shields.io/badge/YouTube-Teaser-FF0000?logo=youtube&amp;logoColor=white" alt="YouTube Video"></a>
 </p>
 
 🤗 If DBL-Diffusion is useful for your research, a star ⭐ on the repository would be greatly appreciated!
