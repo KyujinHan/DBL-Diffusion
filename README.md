@@ -17,10 +17,11 @@
 # Table of Contents📖
 1. [Introduction📖](https://github.com/KyujinHan/DBL-Diffusion#introduction)
 2. [TriLayer Datasets📚](https://github.com/KyujinHan/DBL-Diffusion#trilayer-dataset)
-3. [Training🤗](https://github.com/KyujinHan/DBL-Diffusion#training)
-4. [Inference🌊](https://github.com/KyujinHan/DBL-Diffusion#inference)
-5. [ComfyUI🌠](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
-6. [BibTex](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
+3. [Conda🤖](https://github.com/KyujinHan/DBL-Diffusion#conda)
+4. [Training🤗](https://github.com/KyujinHan/DBL-Diffusion#training)
+5. [Inference🌊](https://github.com/KyujinHan/DBL-Diffusion#inference)
+6. [ComfyUI🌠](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
+7. [BibTex](https://github.com/KyujinHan/DBL-Diffusion#comfyui)
   
 
 # Introduction📖
@@ -57,6 +58,11 @@ To this end, we propose the **✨Appearance-Guided Background Inpainting (AGBI)�
 (To be continue...)
 ```  
 > ✨Code reference: [Training-free video editing](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing). 
+
+# Conda🤖
+```python
+(To be continue...)
+```
   
 # Training🤗
 ## DBL-Insert🤖
