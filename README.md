@@ -1,6 +1,6 @@
 # DBL-Diffusion: Explicit Layer Modeling for Video Object Insertion and Video Layer Decomposition🔥
 ![](https://i.imgur.com/waxVImv.png)  
-![](./images/teaser.jpg)  
+![](./images/teaser.png)  
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2607.25802"><img alt="badge1" src="https://img.shields.io/badge/Paper-arXiv-red"></a>
