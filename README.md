@@ -27,8 +27,8 @@ POSTECH, Computer Graphics Lab
   <b>One scene. Two explicit representation. RGB scene content & RGBA foreground layer.</b>
 </p>
 
-<video src="#" controls muted width="100%"></video>  
-  
+![](./images/teaser.png)   
+   
 Most video editing systems still lack explicit layered video representations, limiting realistic compositing, object reuse, and consistent manipulation.
 This limitation is particularly evident in video object insertion and video layer decomposition, where existing methods lack direct supervision for foreground layers that capture both objects and their associated visual effects.
 We introduce **🔥TriLayer🔥**, a triplet video dataset containing aligned composite--background--foreground videos, where the foreground layers include both object appearance and associated visual effects. 
