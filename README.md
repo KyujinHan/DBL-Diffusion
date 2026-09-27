@@ -23,6 +23,10 @@ POSTECH, Computer Graphics Lab
 <sup>†</sup>Corresponding authors
 </p>
 
+<p align="center">
+  <b>One scene. Two explicit layer representation. RGB scene content & RGBA foreground layer.</b>
+</p>
+
 <video src="#" controls muted width="100%"></video>  
   
 Most video editing systems still lack explicit layered video representations, limiting realistic compositing, object reuse, and consistent manipulation.
