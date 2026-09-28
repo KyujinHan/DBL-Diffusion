@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-POSTECH
+Computer Graphics Lab, POSTECH
 </p>
 
 <p align="center">
